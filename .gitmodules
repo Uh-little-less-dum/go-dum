@@ -1,0 +1,9 @@
+[submodule "build"]
+	path = build
+	url = ./build
+[submodule "cli"]
+	path = cli
+	url = ./cli
+[submodule "dev"]
+	path = dev
+	url = ./dev
